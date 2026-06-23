@@ -19,7 +19,7 @@
       "user_name": "Admin",
       "wb_get_subtitle": true,
       "wb_video": true,
-      "wb_translator": false
+      "wb_translator": true
     },
     {
       "device_id": "9a0d479e2bb057e878bc1c52906f6ffb3cab108889f637d75630550bd5dfefc3",
