@@ -15,7 +15,7 @@
     {
       "device_id": "40aa7d92774ac954f9acb5213e8fb7dc9933f89307b3f5f4b382496cdf6b4f2c",
       "wb_get_subtitle": true,
-      "wb_video": false,
+      "wb_video": true,
       "wb_translator": false
     },
     {
