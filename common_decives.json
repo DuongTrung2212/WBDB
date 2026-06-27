@@ -24,7 +24,7 @@
     {
       "device_id": "9a0d479e2bb057e878bc1c52906f6ffb3cab108889f637d75630550bd5dfefc3",
       "user_name": "Nguyễn Viết Hiệp",
-      "wb_get_subtitle": false,
+      "wb_get_subtitle": true,
       "wb_video": false,
       "wb_translator": true
     },
