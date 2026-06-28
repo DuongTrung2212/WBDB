@@ -25,7 +25,7 @@
       "wb_video": true,
       "wb_translator": true,
       "wb_tts": true,
-      "wb_tts_pro": false
+      "wb_tts_pro": true
     },
     {
       "device_id": "9a0d479e2bb057e878bc1c52906f6ffb3cab108889f637d75630550bd5dfefc3",
