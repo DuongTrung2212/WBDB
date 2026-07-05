@@ -1,0 +1,86 @@
+[
+  {
+    "name": "WBAudio",
+    "id": "wb_audio",
+    "downloadUrl": "https://drive.google.com/drive/folders/1x1I8315-_G7EAUNEZfTGC9Zfuwgh3WRW?usp=drive_link",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "WBGetSubtitle",
+    "id": "wb_get_subtitle",
+    "downloadUrl": "https://drive.google.com/drive/folders/1qwnb84l67an4xiDVfgdiW1BgXgCvuUNC?usp=drive_link",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "WBGetSubtitle",
+    "id": "wb_get_subtitle",
+    "downloadUrl": "https://drive.google.com/drive/folders/1OJdjyxr6zGC7b5TQzuY6auBPRRNPzc32?usp=drive_link",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "WBTranslator",
+    "id": "wb_translator",
+    "downloadUrl": "https://drive.google.com/drive/folders/1T0cv-4djalpGs_qG_B-4DtWiczdYRj_P?usp=drive_link",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "WBTTS",
+    "id": "wb_tts",
+    "downloadUrl": "https://drive.google.com/drive/folders/1FmGRHdoicXmjjZMY9SPqqvqxxNListwY?usp=drive_link",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "WBTTS_Pro",
+    "id": "wb_tts_pro",
+    "downloadUrl": "https://drive.google.com/drive/folders/1MDTT5KPaxTwh6aZ_kff6LZgpl4ukTBCW?usp=drive_link",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "WBVideo",
+    "id": "wb_video",
+    "downloadUrl": "https://drive.google.com/drive/folders/1w0navQf4Mw8HnZQjrkA0UDshqb5nGeZr?usp=drive_link",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "WBVideoCut",
+    "id": "wb_video_cut",
+    "downloadUrl": "https://drive.google.com/drive/folders/1MU81sYth5sYxKgUFpvmULxNPCm9S2FxF?usp=drive_link",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "WBVideoDownloader",
+    "id": "wb_video_downloader",
+    "downloadUrl": "https://drive.google.com/drive/folders/1HrBSV51qIG-Z8JdGCIdr_VsdrNISmRiF?usp=drive_link",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "WBVideoSplit",
+    "id": "wb_video_split",
+    "downloadUrl": "https://drive.google.com/drive/folders/1ONB0apdtSuFnlHbWVO0XKDGyP1xdeDOY?usp=drive_link",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "WBVideoReview",
+    "id": "wb_video_review",
+    "downloadUrl": "",
+    "version": "",
+    "description": ""
+  },
+  {
+    "name": "WBVideoReup",
+    "id": "wb_video_reup",
+    "downloadUrl": "",
+    "version": "",
+    "description": ""
+  }
+]
