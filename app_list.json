@@ -25,7 +25,7 @@
     "id": "wb_translator",
     "downloadUrl": "https://drive.google.com/drive/folders/1T0cv-4djalpGs_qG_B-4DtWiczdYRj_P?usp=drive_link",
     "version": "1.0.0",
-    "description": ""
+    "description": "Công cụ hỗ trợ dịch thuật văn bản, giúp người dùng dễ dàng chuyển đổi ngôn ngữ và hiểu nội dung từ các nguồn khác nhau."
   },
   {
     "name": "WBTTS",
@@ -39,7 +39,7 @@
     "id": "wb_tts_pro",
     "downloadUrl": "https://drive.google.com/drive/folders/1MDTT5KPaxTwh6aZ_kff6LZgpl4ukTBCW?usp=drive_link",
     "version": "1.0.0",
-    "description": ""
+    "description": "Công cụ hỗ trợ chuyển văn bản thành lời nói đa ngôn ngữ, giúp người dùng dễ dàng tạo ra các đoạn audio chất lượng cao từ nội dung văn bản."
   },
   {
     "name": "WBVideo",
@@ -79,8 +79,8 @@
   {
     "name": "WBVideoReup",
     "id": "wb_video_reup",
-    "downloadUrl": "",
-    "version": "",
-    "description": ""
+    "downloadUrl": "https://drive.google.com/drive/folders/1dnJPj2eSWUwZ3pI6W8pYYgNz4mDAFvUX?usp=drive_link",
+    "version": "1.0.0",
+    "description": "Công cụ hỗ trợ reup video từ các nguồn khác nhau, giúp người dùng dễ dàng tải lại và chia sẻ nội dung video mà không gặp rắc rối về bản quyền."
   }
 ]
