@@ -125,6 +125,20 @@
       "wb_video_cut": false,
       "wb_video_review": false,
       "wb_video_reup": false
+    },
+    {
+      "device_id": "e9e2d4abfc83a04e358303e3ccb77e6f2d4b8ef76dc4650387584c7d45365ad7",
+      "user_name": "Ku Nhật",
+      "wb_get_subtitle": true,
+      "wb_video": true,
+      "wb_translator": true,
+      "wb_tts": true,
+      "wb_tts_pro": true,
+      "wb_video_split": true,
+      "wb_video_downloader": true,
+      "wb_video_cut": true,
+      "wb_video_review": true,
+      "wb_video_reup": true
     }
   ]
 }
