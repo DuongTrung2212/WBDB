@@ -139,6 +139,20 @@
       "wb_video_cut": true,
       "wb_video_review": true,
       "wb_video_reup": true
+    },
+    {
+      "device_id": "0d7982464ac04535464fbf6deefabe7eac2e5fd3cef657827f6a261707b4d22",
+      "user_name": "Nam Nguyễn",
+      "wb_get_subtitle": false,
+      "wb_video": false,
+      "wb_translator": true,
+      "wb_tts": false,
+      "wb_tts_pro": false,
+      "wb_video_split": false,
+      "wb_video_downloader": false,
+      "wb_video_cut": false,
+      "wb_video_review": false,
+      "wb_video_reup": false
     }
   ]
 }
