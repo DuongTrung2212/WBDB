@@ -2,21 +2,14 @@
   {
     "name": "WBAudio",
     "id": "wb_audio",
-    "downloadUrl": "https://drive.google.com/drive/folders/1x1I8315-_G7EAUNEZfTGC9Zfuwgh3WRW?usp=drive_link",
+    "downloadUrl": "",
     "version": "1.0.0",
     "description": ""
   },
   {
     "name": "WBGetSubtitle",
     "id": "wb_get_subtitle",
-    "downloadUrl": "https://drive.google.com/drive/folders/1qwnb84l67an4xiDVfgdiW1BgXgCvuUNC?usp=drive_link",
-    "version": "1.0.0",
-    "description": ""
-  },
-  {
-    "name": "WBGetSubtitle",
-    "id": "wb_get_subtitle",
-    "downloadUrl": "https://drive.google.com/drive/folders/1OJdjyxr6zGC7b5TQzuY6auBPRRNPzc32?usp=drive_link",
+    "downloadUrl": "",
     "version": "1.0.0",
     "description": ""
   },
