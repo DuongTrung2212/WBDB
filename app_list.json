@@ -23,9 +23,9 @@
   {
     "name": "WBTTS",
     "id": "wb_tts",
-    "downloadUrl": "https://drive.google.com/drive/folders/1FmGRHdoicXmjjZMY9SPqqvqxxNListwY?usp=drive_link",
+    "downloadUrl": "https://drive.google.com/drive/folders/1FmGRHdoicXmjjZMY9SPqqvqxxNListwY?usp=sharing",
     "version": "1.0.0",
-    "description": ""
+    "description": "Công cụ hỗ trợ chuyển văn bản thành lời nói ngôn ngữ việt, giọng review, giúp người dùng dễ dàng tạo ra các đoạn audio chất lượng cao từ nội dung văn bản."
   },
   {
     "name": "WBTTS_Pro",
