@@ -65,9 +65,9 @@
   {
     "name": "WBVideoReview",
     "id": "wb_video_review",
-    "downloadUrl": "",
-    "version": "",
-    "description": ""
+    "downloadUrl": "https://drive.google.com/drive/folders/1jiW4YeKu4vG3eqY2903TsF4u6Uk44clq?usp=drive_link",
+    "version": "1.0.0",
+    "description": "Công cụ thuyêt minh video, giúp người dùng dễ dàng tạo ra các đoạn audio chất lượng cao từ nội dung video."
   },
   {
     "name": "WBVideoReup",
