@@ -139,6 +139,20 @@
       "wb_video_cut": false,
       "wb_video_review": false,
       "wb_video_reup": false
+    },
+    {
+      "device_id": "724bd402150e69040a7124c2e070e44348a3d38b158a389aee3fd825b107ce1a",
+      "user_name": "Ku Quỳnh",
+      "wb_get_subtitle": true,
+      "wb_video": true,
+      "wb_translator": true,
+      "wb_tts": true,
+      "wb_tts_pro": true,
+      "wb_video_split": true,
+      "wb_video_downloader": true,
+      "wb_video_cut": true,
+      "wb_video_review": true,
+      "wb_video_reup": true
     }
   ]
 }
