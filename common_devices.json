@@ -178,6 +178,21 @@
       "wb_video_cut": true,
       "wb_video_review": true,
       "wb_video_reup": true
+    },
+    {
+      "device_id": "2b4eeda67161a9e11465930fbab97a298850e1b76bbbb6a7964840df85f883fc",
+      "user_name": "Vuong Nguyen",
+      "wb_get_subtitle": false,
+      "wb_video": false,
+      "wb_translator": true,
+      "wb_tts": false,
+      "wb_tts_pro": false,
+      "wb_video_split": false,
+      "wb_video_downloader": false,
+      "wb_video_cut": false,
+      "wb_video_review": false,
+      "wb_video_reup": false,
+      "wb_audio": false
     }
   ]
 }
