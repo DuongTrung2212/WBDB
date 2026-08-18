@@ -108,8 +108,8 @@
     {
       "device_id": "388cba6dbd7614afbe4b08fbf70367d307a8777fa4d60ffc50f48f14f8a92d7b",
       "user_name": "Hoàng Viết Hòa",
-      "wb_get_subtitle": false,
-      "wb_video": false,
+      "wb_get_subtitle": true,
+      "wb_video": true,
       "wb_translator": true,
       "wb_tts": false,
       "wb_tts_pro": false,
