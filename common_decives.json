@@ -59,7 +59,7 @@
     {
       "device_id": "09f8d3755c9170ab266bdcde79eaae37a2a56d0e62ab4711c39899bd3109305a",
       "user_name": "",
-      "wb_get_subtitle": false,
+      "wb_get_subtitle": true,
       "wb_video": false,
       "wb_translator": true,
       "wb_tts": false,
