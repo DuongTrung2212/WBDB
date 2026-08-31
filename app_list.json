@@ -75,5 +75,12 @@
     "downloadUrl": "https://drive.google.com/drive/folders/1dnJPj2eSWUwZ3pI6W8pYYgNz4mDAFvUX?usp=drive_link",
     "version": "1.0.0",
     "description": "Công cụ hỗ trợ reup video từ các nguồn khác nhau, giúp người dùng dễ dàng tải lại và chia sẻ nội dung video mà không gặp rắc rối về bản quyền."
+  },
+  {
+    "name": "WBVideoAI",
+    "id": "wb_video_ai",
+    "downloadUrl": "",
+    "version": "1.0.0",
+    "description": "Công cụ hỗ trợ reup video từ các nguồn khác nhau, giúp người dùng dễ dàng tải lại và chia sẻ nội dung video mà không gặp rắc rối về bản quyền."
   }
 ]
